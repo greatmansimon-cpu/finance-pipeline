@@ -38,7 +38,7 @@ I wanted hands-on experience with a full data pipeline — not just fitting a mo
 
 - `update_prices.py` — the daily update script (run by Task Scheduler)
 - `dashboard.py` — the Streamlit dashboard
-- `exploration_notes.ipynb` — development notebook showing the full build process, including debugging
+- `finance_pipeline.ipynb` — development notebook showing the full build process, including debugging
 
 ## What's next
 
